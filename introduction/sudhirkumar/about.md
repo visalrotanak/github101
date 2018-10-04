@@ -1,6 +1,6 @@
 # Introduction
 
-I am sudhir kumar yadav.
+I am Sudhir Kumar Yadav.
 
 
 # Hobbies
