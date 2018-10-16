@@ -1,7 +1,6 @@
-Introduction
+#Introduction
 
 I am Archit Uniyal.
-
 
 #Hobbies
  - Programming
