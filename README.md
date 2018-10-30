@@ -21,4 +21,10 @@ Follow the following steps to contribute:
 * Tag the issue in the description of your PR.
 * You are free to open new issues given that they are relevant.
 
+## Best Practices
 
+* Use a separate branch to create a PR.
+* Make only one commit per PR.
+* Make sure that the commit message is not too long and is in present tense.
+* Solve one issue at a time do not take up many issues.
+* Be active on the PR discussions, or lese your PR might get closed due to inactivity.
